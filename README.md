@@ -1,4 +1,7 @@
-# Undectable VBShellCode
+# Undectable Shellcode using VB.NET
+
+Write-up:
+https://osandamalith.com/2016/08/01/making-your-shellcode-undetectable-using-net/
 
 Implementing the VirtualProtect and VirtualAlloc using VB.NET
 
